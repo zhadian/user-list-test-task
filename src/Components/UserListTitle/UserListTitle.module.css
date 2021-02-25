@@ -1,0 +1,23 @@
+.container {
+  height: 64px;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 2px;
+}
+.infoBox {
+  width: 289px;
+}
+.role {
+  height: 24px;
+  border-radius: 4px;
+  padding: 3px 8px;
+}
+.roleBox {
+  width: 130px;
+}
+.userBoxContaienr {
+  width: 331px;
+}
+.icon {
+  margin: 0 2px !important;
+}

@@ -1,0 +1,8 @@
+.contianer {
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  padding: 0 16px;
+}
+.loadingContainer {
+  height: 60%;
+}

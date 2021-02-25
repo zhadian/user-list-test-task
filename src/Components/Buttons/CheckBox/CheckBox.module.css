@@ -1,0 +1,24 @@
+.inActiveBox,
+.activeBox {
+  height: 16px;
+  width: 16px;
+  border-radius: 3px;
+  margin: 3px;
+}
+
+.inActiveBox {
+  background-color: white;
+  border: 1px solid #cbd5e0;
+}
+
+.activeBox {
+  background-color: #475de5;
+}
+
+.check {
+  color: white;
+  font-size: 10px;
+}
+.container {
+  width: 42px;
+}

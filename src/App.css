@@ -1,0 +1,26 @@
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  margin: 0;
+}
+h3 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 0;
+}
+.lightText {
+  color: rgba(113, 128, 150, 1);
+}
+p,
+.paragragh {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  margin: 0;
+}
+.smallText {
+  font-size: 12px;
+  line-height: 18px;
+}

@@ -1,0 +1,10 @@
+.container {
+  width: 780px;
+  /* height: 95vh; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #edf2f7;
+  padding: 0 32px 32px;
+}

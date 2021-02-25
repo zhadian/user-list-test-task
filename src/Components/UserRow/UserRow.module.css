@@ -1,0 +1,31 @@
+.container {
+  height: 64px;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 2px;
+}
+.profileImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 5px;
+}
+.infoBox {
+  width: 289px;
+}
+.role {
+  height: 24px;
+  border-radius: 4px;
+  padding: 3px 8px;
+}
+.roleBox {
+  width: 130px;
+}
+.bar {
+  height: 100%;
+  width: 4px;
+  background-color: #475de5;
+  left: 0;
+  top: 0;
+}
